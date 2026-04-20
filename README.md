@@ -68,9 +68,24 @@ The application focuses on usability, visual presentation, and a smooth browsing
 
 ---
 
-## ▶️ How to Run
+## ## ▶️ How to Run
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/mohammedkhaledalkhaled-maker/real-estate-platform.git
 cd real-estate-platform
+```
+
+2. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+3. Run the app:
+
+```bash
+flutter run
+```
+
