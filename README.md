@@ -10,6 +10,8 @@ Flutter-based real estate mobile application for browsing, searching, and explor
 - Advanced property search and filtering
 - Property details view
 - Interactive maps integration
+- Agency & agents browsing
+- Services and articles section
 - Modern and responsive Flutter UI
 - User-friendly mobile experience
 - Media-rich property presentation
@@ -34,17 +36,26 @@ Flutter-based real estate mobile application for browsing, searching, and explor
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home Screen](assets/home.jpg)
+### 🏠 Home Screen
+![Home](assets/home.jpg)
 
-### Property Details
-![Property Details](assets/details.jpg)
+### 🏢 Properties Listing
+![Properties](assets/properties-grid.jpg)
 
-### Search & Filters
-![Search](assets/search.jpg)
+### 🔍 Search Results
+![Search](assets/search-results.jpg)
 
-### Maps Integration
-![Maps](assets/map.jpg)
+### 🏡 Property Details
+![Property Details](assets/property-details.jpg)
+
+### 🏢 Agencies & Agents
+![Agents](assets/agents.jpg)
+
+### 🏬 Agency Details
+![Agency Details](assets/agency-details.jpg)
+
+### 📰 Services & Articles
+![Services](assets/services.jpg)
 
 ---
 
